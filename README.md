@@ -1,6 +1,5 @@
 🍽️ Sandy’s Kitchen – Food Delivery App (UI/UX Design) ## 🚀 Live Prototype
-[👉 View Figma Prototype]([https://www.figma.com/proto/your-full-link](https://www.figma.com/proto/hbndVKbhMt5ldytDuicdUO/Sandy-s-Kitchen?node-id=1-4&t=ll2YODnjn69zel0B-1))
-
+[👉 View Figma Prototype]( https://www.figma.com/proto/hbndVKbhMt5ldytDuicdUO/Sandy-s-Kitchen?node-id=1-4&t=ll2YODnjn69zel0B-1 )
 
 
 A modern and intuitive food delivery mobile app designed in Figma, focused on offering a smooth and engaging experience for users ordering meals online. This project showcases complete UI/UX workflow including user flows, wireframes, high-fidelity screens, prototypes, and usability improvements.
