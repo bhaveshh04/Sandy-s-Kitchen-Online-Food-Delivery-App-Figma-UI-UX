@@ -1,5 +1,5 @@
 🍽️ Sandy’s Kitchen – Food Delivery App (UI/UX Design) ## 🚀 Live Prototype
-[👉 View Figma Prototype](https://www.figma.com/proto/your-full-link)
+[👉 View Figma Prototype]([https://www.figma.com/proto/your-full-link](https://www.figma.com/proto/hbndVKbhMt5ldytDuicdUO/Sandy-s-Kitchen?node-id=1-4&t=ll2YODnjn69zel0B-1))
 
 
 
