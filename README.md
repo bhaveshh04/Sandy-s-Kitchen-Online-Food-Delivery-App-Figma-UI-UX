@@ -6,7 +6,9 @@ A modern and intuitive food delivery mobile app designed in Figma, focused on of
 
 🚀 Live Prototype
 
-🔗 Figma Link: (Paste your full Figma prototype link here)
+🔗 Figma Link: ## 🚀 Live Prototype
+🔗 **Figma Prototype:** (https://www.figma.com/proto/hbndVKbhMt5ldytDuicdUO/Sandy-s-Kitchen?node-id=1-6303&t=jKtm33GsKuK2iAVx-1)
+
 
 🎨 Project Overview
 
